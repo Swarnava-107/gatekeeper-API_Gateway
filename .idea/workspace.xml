@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2faa0c31-c856-47d8-aa46-9268d701a39c" name="Changes" comment="part 1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Swarnava-107&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Swarnava-107/gatekeeper-API-Gateway.git&quot;,
+    &quot;accountId&quot;: &quot;ccc3dc4f-483e-47b4-8b6d-57734c6d2b35&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.473096627547234" />
+      <entry key="MS500" value="2.413092696117573" />
+      <entry key="S2" value="3.687233094906662" />
+      <entry key="S5" value="6.060482999744421" />
+      <entry key="S10" value="8.106900481239782" />
+      <entry key="S30" value="16.38667316973124" />
+      <entry key="S60" value="31.291545979775247" />
+      <entry key="M2" value="49.52495280430172" />
+      <entry key="M5" value="68.02347132029715" />
+      <entry key="M10" value="77.71684678913647" />
+      <entry key="M15" value="83.84328610168828" />
+      <entry key="M30" value="98.6625120419483" />
+      <entry key="H1" value="117.42419962645332" />
+      <entry key="H2" value="133.92938178934878" />
+      <entry key="H4" value="145.13118574695054" />
+      <entry key="D1" value="156.47542707651073" />
+      <entry key="W1" value="158.6337187151194" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.041515433938769E-5" />
+      <entry key="MS500" value="0.11534281158172481" />
+      <entry key="S2" value="0.5827705990672798" />
+      <entry key="S5" value="0.8057476607694228" />
+      <entry key="S10" value="0.897634480604117" />
+      <entry key="S30" value="0.964642759514831" />
+      <entry key="S60" value="0.982162287768591" />
+      <entry key="M2" value="0.9910410516182703" />
+      <entry key="M5" value="0.9992752901642389" />
+      <entry key="M10" value="1.2280993992235354" />
+      <entry key="M15" value="2.1498525255990613" />
+      <entry key="M30" value="7.169754445394919" />
+      <entry key="H1" value="15.603362955735895" />
+      <entry key="H2" value="23.57469121773374" />
+      <entry key="H4" value="29.098957834894073" />
+      <entry key="D1" value="34.74043392628267" />
+      <entry key="W1" value="35.817182347702996" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.361602416499214" />
+      <entry key="MS500" value="2.3900658071297456" />
+      <entry key="S2" value="3.9670842956998684" />
+      <entry key="S5" value="6.654819174429209" />
+      <entry key="S10" value="8.872684733597657" />
+      <entry key="S30" value="17.2854801601672" />
+      <entry key="S60" value="32.2297750630935" />
+      <entry key="M2" value="50.488788653861796" />
+      <entry key="M5" value="69.00995378516308" />
+      <entry key="M10" value="78.93679666340404" />
+      <entry key="M15" value="85.98432605221568" />
+      <entry key="M30" value="105.81937824992106" />
+      <entry key="H1" value="133.01419338356922" />
+      <entry key="H2" value="157.49414660449972" />
+      <entry key="H4" value="174.22406116082982" />
+      <entry key="D1" value="191.21465713082048" />
+      <entry key="W1" value="194.450723901418" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JpEjAbMOQmdbJ28IWOFC4VCQ7X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.AnalyticsServiceApplication.executor": "Run",
+    "Spring Boot.ApiManagementServiceApplication.executor": "Run",
+    "Spring Boot.SmartGatewayServiceApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/swarn/OneDrive/Desktop/Coding/Projects/gatekeeper",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2faa0c31-c856-47d8-aa46-9268d701a39c" name="Changes" comment="" />
+      <created>1790349743125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790349743125</updated>
+    </task>
+    <task id="LOCAL-00001" summary="part 1">
+      <option name="closed" value="true" />
+      <created>1790353842508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790353842508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="part 1">
+      <option name="closed" value="true" />
+      <created>1790354083983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790354083983</updated>
+    </task>
+    <task id="LOCAL-00003" summary="part 1">
+      <option name="closed" value="true" />
+      <created>1790354104893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790354104893</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="part 1" />
+  </component>
+</project>
